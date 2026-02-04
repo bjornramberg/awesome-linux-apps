@@ -59,6 +59,7 @@
 - [Tor](https://www.torproject.org/) - Contain everything you need to safely browse the internet.
 - [Vivaldi](https://vivaldi.com) - Powerful, personal and flexible browser.
 - [Yandex](https://browser.yandex.com/) - Fast and secure browser.
+- [Zen](https://zen-browser.app) - A brand new cross-platform browser with attractive UI, based on Firefox. 👏
 
 ## Chat
 
@@ -246,4 +247,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Harry Tran](https://github.com/harrytran103) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Cuong Nguyen](https://www.linkedin.com/in/cuong9) has waived all copyright and related or neighboring rights to this work.
